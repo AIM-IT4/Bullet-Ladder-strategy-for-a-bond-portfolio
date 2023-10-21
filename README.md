@@ -34,10 +34,11 @@ This repository contains all the essential components for backtesting a bullet s
 
 Feel free to fork this repository and make your own modifications. Pull requests for improvements or bug fixes are welcome.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE.md file for details.
 
 ## Contact
 
 For any questions or clarifications, please open an issue in this repository.
+
+## Portfolio Performance
+![Portfolio Performance](portfolio_performance.png)
